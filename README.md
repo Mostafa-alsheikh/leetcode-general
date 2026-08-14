@@ -37,4 +37,12 @@
 | [1934-confirmation-rate](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
