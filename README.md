@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
